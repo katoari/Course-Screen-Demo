@@ -1,4 +1,4 @@
-# demo
+# Course Screen Interview Demo
 
 A new Flutter project.
 
